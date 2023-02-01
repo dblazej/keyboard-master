@@ -1,3 +1,3 @@
 # keyboard-master
-Gra saper w C++ WinApi. <br/>
+Gra keyboard-master w C++ WinApi. <br/>
 Program wykonany jako projekt uniwersytecki na Politechnice Warszawskiej.
