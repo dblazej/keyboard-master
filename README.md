@@ -1,4 +1,4 @@
-# keyboard-maste/mistrz-klawiatury
+# keyboard-master/mistrz-klawiatury
 Gra keyboard master w C++ WinApi. <br/>
 Program wykonany jako projekt uniwersytecki na Politechnice Warszawskiej.
 
